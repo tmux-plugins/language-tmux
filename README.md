@@ -2,9 +2,6 @@
 
 > [Atom](https://atom.io) language package for [Tmux](http://tmux.github.io/) config file
 
-* Syntax Highlighting
-* Completitions
-
 ## Install
 
 ```bash
