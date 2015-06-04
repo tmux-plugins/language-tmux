@@ -36,7 +36,7 @@
     'endCaptures':
       '0':
         'name': 'punctuation.definition.string.end.tmux'
-    'name': 'string.quoted.single.tmux'
+    'name': 'string.quoted.double.tmux'
   }
 
   # Switches
