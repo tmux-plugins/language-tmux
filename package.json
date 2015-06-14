@@ -13,5 +13,6 @@
     "language",
     "terminal"
   ],
+  "author": "Taylon Silmer <taylonsilva@gmail.com> (https://github.com/taylon)",
   "dependencies": {}
 }
