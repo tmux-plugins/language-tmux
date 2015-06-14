@@ -2,7 +2,7 @@
   "name": "language-tmux",
   "version": "0.1.0",
   "description": "Atom language support for Tmux",
-  "repository": "https://github.com/taylon/language-tmux",
+  "repository": "https://github.com/tmux-plugins/language-tmux",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
