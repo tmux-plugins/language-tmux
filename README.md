@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/taylon/language-tmux.svg?branch=master)](https://travis-ci.org/taylon/language-tmux)
+[![Build Status](https://travis-ci.org/tmux-plugins/language-tmux.svg?branch=master)](https://travis-ci.org/taylon/language-tmux)
 
 > [Atom](https://atom.io) language package for [Tmux](http://tmux.github.io/) config file
 
