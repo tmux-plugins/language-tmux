@@ -1,6 +1,6 @@
 {
   "name": "language-tmux",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom language support for Tmux",
   "repository": "https://github.com/tmux-plugins/language-tmux",
   "license": "MIT",
