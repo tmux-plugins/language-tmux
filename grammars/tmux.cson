@@ -1,5 +1,6 @@
 'fileTypes': [
-  '.tmux.conf'
+  '.tmux.conf',
+  'tmux.conf'
 ]
 'name': 'tmux'
 'patterns': [
